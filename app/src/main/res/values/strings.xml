@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumbresTest2</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="search">Search</string>
+    <string name="id_vvod_v_vk">Ведите id в вконтакте</string>
+    <string name="result">Результат будет здесь</string>
+</resources>
