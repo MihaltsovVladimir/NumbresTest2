@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
         private Button searchButton;                            //поле кнопка
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
